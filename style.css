@@ -1,10 +1,10 @@
 .cabecalho {
     background-color: #F6FB06;
-    color: blue
+    color: blue;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-around;    
 }
 
 .cabecalho-imagem{ 
-    width: ;
+    width: 5%;
 }

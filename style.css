@@ -8,3 +8,7 @@
 .cabecalho-imagem{ 
     width: 10%;
 }
+
+.cabecalho-lista-item{
+    display: inline-block;
+}

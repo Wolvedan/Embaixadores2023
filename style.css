@@ -27,6 +27,8 @@
     background-image: linear-gradient(#F6FB06, #494625);
     color: blue;
     display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 .escola-div-conteudo{

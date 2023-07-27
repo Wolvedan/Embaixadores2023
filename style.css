@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .cabecalho {
     background-color: #F6FB06;
     color: blue;

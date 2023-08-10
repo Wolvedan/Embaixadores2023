@@ -66,7 +66,7 @@ body{
     overflow: hidden;
 }
 
-.tempestade-imagem img {
+.tempestade-imagem{
     width: auto;
     }
 
@@ -85,5 +85,5 @@ body{
 
 .professores-todos{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }

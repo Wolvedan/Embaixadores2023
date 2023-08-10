@@ -66,6 +66,10 @@ body{
     overflow: hidden;
 }
 
+.tempestade-imagem img {
+    width: auto;
+    }
+
 .xavier-icone{
     width: 24px;
 }

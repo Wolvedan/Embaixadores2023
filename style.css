@@ -55,3 +55,8 @@ body{
 .professores-div{
     text-align: center;
 }
+
+.professores-titulo{
+    text-align: center;
+    padding: 25px 0;
+}

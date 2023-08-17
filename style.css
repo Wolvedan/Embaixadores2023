@@ -16,6 +16,10 @@ body{
     padding: 12px 0;  
 }
 
+.professores {
+    background-image: linear-gradient(#494625, black);
+}
+
 .cabecalho-imagem{ 
     width: 10%;
     height: 10%;

@@ -45,7 +45,7 @@ body{
 }
 
 .xavier-imagem{
-    width: 250px;
+    width: 260px;
     height: 160px;
 }
 
@@ -60,12 +60,17 @@ body{
 }
 
 .wolverine-imagem{
-    width: 250px;
+    width: 260px;
     height: 160px;
 }
 
 .tempestade-imagem{
     width: 300px;
+    height: 160px;
+}
+
+.fera-imagem{
+    width: 200px;
     height: 160px;
 }
 
